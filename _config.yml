@@ -6,14 +6,14 @@ course_semester: "Spring 2025"
 baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
 url: "http://kazemnejad.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
+schoolname: "SUT"
+schoolurl: "https://sharif.edu"
 twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    Department of Computer Engineering
+    Shraif University of Technology
+    Iran
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
