@@ -4,7 +4,7 @@ course_description: "This course about deep generative models."
 course_semester: "Spring 2025"
 
 baseurl: "/course" # the subpath of your site, e.g. /blog/
-url: "http://beigy.github.io/" # the base hostname & protocol for your site
+url: "https://beigy.github.io/" # the base hostname & protocol for your site
 
 schoolname: "SUT"
 schoolurl: "https://sharif.edu" 
